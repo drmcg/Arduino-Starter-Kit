@@ -1,5 +1,5 @@
 {
     "board": "arduino:avr:uno",
     "port": "COM3",
-    "sketch": "2 Using A Potentiometer\\potentiometer1.ino"
+    "sketch": "4 Fan Speed Controller\\fan1.ino"
 }
