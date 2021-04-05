@@ -1,5 +1,5 @@
 {
     "board": "arduino:avr:uno",
     "port": "COM3",
-    "sketch": "4 Fan Speed Controller\\fan1.ino"
+    "sketch": "6 Serial Out\\serial1.ino"
 }
